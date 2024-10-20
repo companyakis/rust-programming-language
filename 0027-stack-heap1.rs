@@ -2,7 +2,7 @@ fn main() {
 
   let year: u16 = 2024; // stored on the stack
 
-  let my_name = String::from("Mustafa");
+  let my_name = String::from("Mustafa"); // stored on the heap 
 
   // move
 
